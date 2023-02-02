@@ -1,0 +1,1 @@
+Observer for the timer to know when to stop?

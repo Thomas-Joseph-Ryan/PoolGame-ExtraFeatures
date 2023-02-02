@@ -1,0 +1,4 @@
+Need to use prototype to clone objects that the ball has.
+
+Main object to be cloned would be the strategy. We are not actually creating an all new ball/timer just cloning the objects
+they hold
